@@ -1,0 +1,7 @@
+C:\Users\Work\Documents\Code-Workshop-Software-Engineering\michael-eugene\SumOfArrayOfIntegers\SumOfArrayOfIntegers\bin\Debug\SumOfArrayOfIntegers.exe.config
+C:\Users\Work\Documents\Code-Workshop-Software-Engineering\michael-eugene\SumOfArrayOfIntegers\SumOfArrayOfIntegers\bin\Debug\SumOfArrayOfIntegers.exe
+C:\Users\Work\Documents\Code-Workshop-Software-Engineering\michael-eugene\SumOfArrayOfIntegers\SumOfArrayOfIntegers\bin\Debug\SumOfArrayOfIntegers.pdb
+C:\Users\Work\Documents\Code-Workshop-Software-Engineering\michael-eugene\SumOfArrayOfIntegers\SumOfArrayOfIntegers\obj\Debug\SumOfArrayOfIntegers.csprojAssemblyReference.cache
+C:\Users\Work\Documents\Code-Workshop-Software-Engineering\michael-eugene\SumOfArrayOfIntegers\SumOfArrayOfIntegers\obj\Debug\SumOfArrayOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Code-Workshop-Software-Engineering\michael-eugene\SumOfArrayOfIntegers\SumOfArrayOfIntegers\obj\Debug\SumOfArrayOfIntegers.exe
+C:\Users\Work\Documents\Code-Workshop-Software-Engineering\michael-eugene\SumOfArrayOfIntegers\SumOfArrayOfIntegers\obj\Debug\SumOfArrayOfIntegers.pdb
